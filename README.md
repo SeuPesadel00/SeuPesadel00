@@ -1,65 +1,83 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub!;SeuPesadel00+está+online+%F0%9F%91%BB;Desenvolvedor+Fullstack+%F0%9F%92%BB;Open+Source+Lover+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI3djgycmsxcXNxejRsYjk2eXZmeXlpazZ2ejI5eTZqNmpzY2R2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 </div>
+---
+
+## 🚀 Sobre mim
+
+Olá! Sou Arthur Henrique. Analista de Sistemas e desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e conhecimentos. Resido em Brasília - DF.
+
+-   💻 **Desenvolvedor Fullstack** com foco em soluções criativas e eficientes.
+-   🧩 **Apaixonado por resolver problemas** complexos através do código.
+-   📚 **Aprendizado contínuo:** Sempre explorando novas tecnologias e aprimorando minhas habilidades.
+-   🎮 **Gamer** nas horas vagas!
+
+---
+
+## 🛠️ Minhas Habilidades & Tecnologias
 
 <p align="center">
-  <img src="https://media.giphy.com/media/6zWvOa8yhKk3C/giphy.gif" width="220" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />
+   <br>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-## 👾 Sobre mim
-
-- 💻 Desenvolvedor apaixonado por tecnologia e inovação
-- 🧩 Resolvo problemas com criatividade e código
-- 🌎 Localização: Brasil / Brasilia -DF
-- 🎮 Gamer nas horas vagas
-- 📚 Sempre aprendendo algo novo
-- 💬 Fale comigo: [Seu LinkedIn](https://www.linkedin.com/in/arthur-henriquee/) | [Email](arthur.hhee@gmail.com)
-
----
-
-## 🚀 Minhas Skills
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-
----
-
-## 🏆 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuPesadel00&show_icons=true&theme=radical" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuPesadel00&theme=radical" height="175" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeuPesadel00&theme=radical" height="175" />
+  <a href="https://github.com/SeuPesadel00">
+    <img src="https://github-readme-stats.vercel.app/api?username=SeuPesadel00&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25" alt="Estatísticas do GitHub" width="350px" />
+  </a>
+  <a href="https://github.com/SeuPesadel00">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuPesadel00&theme=dark&hide_border=true" alt="Estatísticas de Streak" width="350px" />
+  </a>
+  <a href="https://github.com/SeuPesadel00">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeuPesadel00&theme=dark&hide_border=true" alt="Detalhes do Perfil" width="350px" />
+  </a>
 </div>
 
 ---
 
-## 📢 Projetos em destaque
+## 💡 Projetos em Destaque
 
-- [Meu portfólio](https://webcurriculoo.netlify.app/#)
-- [Meu Site](https://capitaldaarknew.netlify.app/login)
-- [API Node.js](https://github.com/SeuPesadel00/api-node)
+* **[Meu Currículo Online](https://webcurriculoo.netlify.app/#)** - Meu portfólio interativo desenvolvido com React e Tailwind CSS.
+* **[Meu Site Pessoal](https://capitaldaarknew.netlify.app/login)** - Uma aplicação web desenvolvida com foco em design e experiência do usuário.
+* **[API Node.js RESTful](https://github.com/SeuPesadel00/api-node)** - Exemplo de API robusta construída com Node.js e Express.js.
 
 ---
 
-## 🤝 Conecte-se comigo
+## 💬 Fale Comigo!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seupesadel00/)](https://www.linkedin.com/in/arthur-henriquee/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:email@exemplo.com)](arthur.hhee@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-henriquee/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arthur.hhee@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SeuPesadel00" alt="visitantes" />
-  <img src="https://img.shields.io/github/followers/SeuPesadel00?label=Seguidores&style=social" alt="github followers" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SeuPesadel00" alt="Contador de Visitantes" />
+  <img src="https://img.shields.io/github/followers/SeuPesadel00?label=Seguidores&style=social" alt="Seguidores no GitHub" />
 </div>
 
 ---
