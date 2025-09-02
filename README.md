@@ -1,13 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+ARTHUR+HENRIQUE;+Estudante+de+Ciência+da+Computação;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ARTHUR+HENRIQUE;+Profissão:+Analista+de+Sistemas;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 Sobre mim
 
-Olá! Sou Arthur Henrique. Analista de Sistemas e desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e conhecimentos. Resido em Brasília - DF.
+Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e conhecimentos. Resido em Brasília, DF, Brasil.
 
 -   💻 **Desenvolvedor Fullstack** com foco em soluções criativas e eficientes.
 -   🧩 **Apaixonado por resolver problemas** complexos através do código.
@@ -20,13 +19,14 @@ Olá! Sou Arthur Henrique. Analista de Sistemas e desenvolvedor apaixonado por t
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />
-   <br>
+ <br>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -56,8 +56,8 @@ Olá! Sou Arthur Henrique. Analista de Sistemas e desenvolvedor apaixonado por t
 ## 💡 Projetos em Destaque
 
 * **[Meu Currículo Online](https://webcurriculoo.netlify.app/#)** - Meu portfólio interativo desenvolvido com React e Tailwind CSS.
-* **[Meu Site Pessoal](https://capitaldaarknew.netlify.app/login)** - Uma aplicação web desenvolvida com foco em design e experiência do usuário.
-* **[API Node.js RESTful](https://github.com/SeuPesadel00/api-node)** - Exemplo de API robusta construída com Node.js e Express.js.
+* **[Meu Site Pessoal](https://capitaldaarknew.netlify.app/login)** - Uma aplicação web desenvolvida com design futurista e foco na experiência do usuário.
+* **[Carregando...](https://github.com/SeuPesadel00/api-node)**
 
 ---
 
