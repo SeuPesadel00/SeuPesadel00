@@ -12,10 +12,10 @@
 
 - 💻 Desenvolvedor apaixonado por tecnologia e inovação
 - 🧩 Resolvo problemas com criatividade e código
-- 🌎 Localização: Brasil
+- 🌎 Localização: Brasil / Brasilia -DF
 - 🎮 Gamer nas horas vagas
 - 📚 Sempre aprendendo algo novo
-- 💬 Fale comigo: [Seu LinkedIn](https://www.linkedin.com/in/seupesadel00) | [Email](mailto:email@exemplo.com)
+- 💬 Fale comigo: [Seu LinkedIn](https://www.linkedin.com/in/arthur-henriquee/) | [Email](arthur.hhee@gmail.com)
 
 ---
 
@@ -43,17 +43,17 @@
 
 ## 📢 Projetos em destaque
 
-- [Meu portfólio](https://github.com/SeuPesadel00/meu-portfolio)
-- [Jogo em React](https://github.com/SeuPesadel00/jogo-react)
+- [Meu portfólio](https://webcurriculoo.netlify.app/#)
+- [Meu Site](https://capitaldaarknew.netlify.app/login)
 - [API Node.js](https://github.com/SeuPesadel00/api-node)
 
 ---
 
 ## 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seupesadel00/)](https://www.linkedin.com/in/seupesadel00/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:email@exemplo.com)](mailto:email@exemplo.com)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/seupesadel00)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seupesadel00/)](https://www.linkedin.com/in/arthur-henriquee/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:email@exemplo.com)](arthur.hhee@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 ---
 
