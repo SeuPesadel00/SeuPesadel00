@@ -50,10 +50,11 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em bus
 
 **Edição & Design**
 <br>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe&logoColor=white" alt="Photoshop" />
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe&logoColor=white" alt="Illustrator" />
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe&logoColor=white" alt="Premiere Pro" />
-<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe&logoColor=white" alt="After Effects" />
+
+<img width="50" height="50" alt="photoshop" src="https://github.com/user-attachments/assets/590bdb73-0cea-4a05-9bd0-804d33357e51" />
+<img width="50" height="50" alt="ilustrador" src="https://github.com/user-attachments/assets/d9955c7c-5bcb-49f8-ac64-f45c0e8b9fb6" />
+<img width="50" height="50" alt="premier" src="https://github.com/user-attachments/assets/7397d908-9b13-4159-9503-43a53bb6f46d" />
+<img width="50" height="50" alt="depois-dos-efeitos" src="https://github.com/user-attachments/assets/c6258dd3-b060-4aac-a365-5092ee058ef9" />
 </p>
 
 ---
