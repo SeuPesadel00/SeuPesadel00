@@ -26,13 +26,11 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em bus
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=fff" alt="C" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff" alt="C#" />
 
 **Frameworks & Runtimes**
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
 **Bancos de Dados & Ferramentas**
@@ -56,7 +54,6 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em bus
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe&logoColor=white" alt="Illustrator" />
 <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe&logoColor=white" alt="Premiere Pro" />
 <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe&logoColor=white" alt="After Effects" />
-<img src="https://img.shields.io/badge/Creative_Suite_6-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe CS6" />
 </p>
 
 ---
