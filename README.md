@@ -79,7 +79,7 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em bus
 
 ## 💡 Projetos em Destaque
 
-* **[Meu Currículo Online](https://curriculo-interativo-arthur.vercel.app/)** - Meu portfólio interativo desenvolvido com React e Tailwind CSS.
+* **[Meu Currículo Online](https://curriculo-interativo-arthur.vercel.app/)** - Meu portifólio interativo desenvolvido com: TypeScript, React & Tailwind CSS.
 * **[Meu Site Pessoal](https://capitaldaark.com.br/login)** - Uma aplicação web desenvolvida com design futurista e foco na experiência do usuário.
 * **[Carregando...](https://github.com/SeuPesadel00/api-node)**
 
