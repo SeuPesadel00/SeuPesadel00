@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ARTHUR+HENRIQUE;+PROFISSÃO:+Analista+de+Sistemas;ESTUDANDO:+Cíencia+da+Computação;BEM+VINDO!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ARTHUR+HENRIQUE;+PROFISSÃO:+Analista+Tecnico+de+TI;ESTUDANDO:+Cíencia+da+Computação;BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
 ---
 
@@ -25,7 +25,6 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em bus
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=fff" alt="C" />
 
 **Frameworks & Runtimes**
 <br>
