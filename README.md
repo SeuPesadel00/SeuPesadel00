@@ -64,7 +64,7 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em bus
 
 <div align="center">
   <a href="https://github.com/SeuPesadel00">
-    <img src="https://github-readme-stats.vercel.app/api?username=SeuPesadel00&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25" alt="Estatísticas do GitHub" width="350px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SeuPesadel00&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=23" alt="Estatísticas do GitHub" width="350px" />
   </a>
   <a href="https://github.com/SeuPesadel00">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuPesadel00&theme=dark&hide_border=true" alt="Estatísticas de Streak" width="350px" />
