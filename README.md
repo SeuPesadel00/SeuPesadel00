@@ -79,7 +79,9 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em bus
 ## 💡 Projetos em Destaque
 
 * **[Meu Currículo Online](https://curriculo-interativo-arthur.vercel.app/)** - Meu portifólio interativo desenvolvido com: TypeScript, React & Tailwind CSS.
+* **[Fluxo de Caixa Pessoal](https://fluxodecaixav1.netlify.app/login)** - Um site que funciona como um PDV. mantem o fluxo de caixa atualizado e funcional.
 * **[Meu Site Pessoal](https://capitaldaark.com.br/login)** - Uma aplicação web desenvolvida com design futurista e foco na experiência do usuário.
+* **[Portfólio Profissional](https://portifoliosofiaoliveira.netlify.app/)** - Um Portfólio profissional de uma Modelo Fotográfica & Beauty Artist
 * **[Carregando...](https://github.com/SeuPesadel00/api-node)**
 
 ---
