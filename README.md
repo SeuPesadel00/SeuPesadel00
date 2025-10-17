@@ -78,10 +78,11 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em bus
 
 ## 💡 Projetos em Destaque
 
-* **[Meu Currículo Online](https://curriculo-interativo-arthur.vercel.app/)** - Meu portifólio interativo desenvolvido com: TypeScript, React & Tailwind CSS.
-* **[Fluxo de Caixa Pessoal](https://fluxodecaixav1.netlify.app/login)** - Um site que funciona como um PDV. mantem o fluxo de caixa atualizado e funcional.
-* **[Portfólio Profissional](https://portifoliosofiaoliveira.netlify.app/)** - Um Portfólio profissional de uma Modelo Fotográfica & Beauty Artist.
-* **[Meu Site Pessoal](https://capitaldaark.com.br/login)** - Uma aplicação web desenvolvida com design futurista e foco na experiência do usuário.
+* **[Meu Currículo📜](https://curriculo-interativo-arthur.vercel.app/)** - Meu portifólio interativo desenvolvido com: TypeScript, React & Tailwind CSS.
+* **[Sistema Fluxo de Caixa💰](https://fluxodecaixav1.netlify.app/login)** - Um site que funciona como um PDV. mantem o fluxo de caixa atualizado e funcional.
+* **[Portfólio Sofia Oliveira👩🏼‍💼](https://portifoliosofiaoliveira.netlify.app/)** - Um Portfólio profissional de uma Modelo Fotográfica & Beauty Artist.
+* **[Capital Daark🦣](https://capitaldaark.com.br/login)** - Uma aplicação web desenvolvida com design futurista e foco na experiência do usuário.
+* **[Caramelo Real👑](https://capitaldaark.com.br/login)** - Uma aplicação web desenvolvida com design futurista e foco na experiência do usuário.
 * **[Carregando...](https://github.com/SeuPesadel00/api-node)**
 
 ---
