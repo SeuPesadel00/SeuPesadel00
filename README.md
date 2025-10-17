@@ -82,7 +82,7 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em bus
 * **[Sistema Fluxo de Caixa💰](https://fluxodecaixav1.netlify.app/login)** - Um site que funciona como um PDV. mantem o fluxo de caixa atualizado e funcional.
 * **[Portfólio Sofia Oliveira👩🏼‍💼](https://portifoliosofiaoliveira.netlify.app/)** - Um Portfólio profissional de uma Modelo Fotográfica & Beauty Artist.
 * **[Capital Daark🦣](https://capitaldaark.com.br/login)** - Uma aplicação web desenvolvida com design futurista e foco na experiência do usuário.
-* **[Caramelo Real👑](https://capitaldaark.com.br/login)** - Uma aplicação web desenvolvida com design futurista e foco na experiência do usuário.
+* **[Caramelo Real👑](https://carameloreal.shop/)** - uma doceria artesanal especializada em pudins, mousses, bolos e outras sobremesas.
 * **[Carregando...](https://github.com/SeuPesadel00/api-node)**
 
 ---
